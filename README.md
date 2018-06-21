@@ -1,6 +1,6 @@
 # A demo Laravel app to demonstrate the dangers of using firstOrCreate in a queued environment
 
-Read [this blogpost on murze.be](TODO: add link) first to get familiar with the problem.
+Read [this blogpost on murze.be](https://murze.be/breaking-laravels-firstorcreate-using-race-conditions) first to get familiar with the problem.
 
 ## Usage
 
