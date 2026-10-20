@@ -20,7 +20,7 @@ To run this demo you'll need to have Redis installed
 4. Create a `racing_condition_demo` database
 5. Run `php artisan key:generate`
 6. Run `php artisan migrate`
-7. In a seperate terminal start Horizon with `php artisan horizon`
+7. In a separate terminal start Horizon with `php artisan horizon`
 8. Run `php artisan create-products`
 
 If you look in the `products` table of the database multiple records with the same uuid will have been created.
